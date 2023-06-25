@@ -2,6 +2,7 @@
 
 BCDICE_API_URL=MTEyMTA2MjMxNjg1MTYwOTY1MA.GfKo0f.otGltPhRgvNz-U5Cm_G5IVqGgqRIsYGSehtOzM
 IGNORE_ERROR=0
+DISCORD_BOT_TOKEN=MTEyMTA2MjMxNjg1MTYwOTY1MA.GLQM7m.vLm-gZsC-n1kozMN6B7ALy3Uv1Fy0todtc_ZNM
 # export BCDICE_PASSWORD=PleaseChangeMeIfYouUseThis
 # export BCDICE_API_SECONDARY=http://secondary.bcdice-api.yourdomain.co.jp/
 # export BCDICE_DEFAULT_SYSTEM=DiceBot
